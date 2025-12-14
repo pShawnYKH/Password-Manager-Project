@@ -6,7 +6,7 @@ import sqlite3
 
 __pass_code="udumbass"
 __PASS_CODE=__pass_code.lower()
-subpage_form_access=False  #debug
+subpage_form_access=False
 selected_subpage=None
 FONT="Segoe UI Variable Small Semilig"
 
